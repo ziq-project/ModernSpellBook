@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: Modern Spellbook - Project Legacy
+## Title: Modern Spellbook |cff7fff7f - Project Legacy|r
 ## Author: Fork for Project Legacy by Ziq
 ## Notes: Changes the spellbook to a more modern look inspired by the retail version.
 ## Notes-frFR: Modifie le livre de sorts pour un look plus moderne inspiré de la version commerciale.
